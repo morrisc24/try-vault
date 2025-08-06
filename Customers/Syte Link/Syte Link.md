@@ -4,5 +4,6 @@ Wikilink
 [_Index](_Index.md)
 
 Vault Path
-[_Index](_Index.md)
+[_Index](/_Index.md)
+
 
