@@ -1,0 +1,10 @@
+.trash/
+.DS_Store
+.obsidian/cache
+.obsidian/workspace*
+.obsidian/workspace-mobile*
+.obsidian/appearance*
+#.obsidian/
+
+Assets/
+Analyse/
