@@ -6,5 +6,6 @@ Wikilink
 Vault Path
 [Syte Link](/Customers/Syte%20Link/Syte%20Link.md)
 
-
+Relative path
+[Syte Link](Customers/Syte%20Link/Syte%20Link.md)
 
