@@ -1,11 +1,11 @@
 Wikilink
-[[_Index]]
+[[../../-Index]]
 
-[_Index](_Index.md)
+[-Index](../../-Index.md)
 
 Vault Path
-[_Index](/_Index.md)
+[-Index](../../-Index.md)
 
 
 Relative path
-[_Index](../../_Index.md)
+[-Index](../../-Index.md)
