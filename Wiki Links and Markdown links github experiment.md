@@ -11,3 +11,5 @@ THis is a wikilink wit %20
 And this wikilink uses a space
 - [[Link Target.md]]
 
+This is hw i would create web pages
+- [[link-target-hyphenated]]
