@@ -16,5 +16,6 @@ This is hw i would create web pages
 - [link-target-hyphenated-2](link-target-hyphenated-2.md)
 - [[link-3]]
 - [syte-link-target](Customers/Syte%20Link/syte-link-target.md)
+- [plan-of-experiments](plan-of-experiments.md)
 - 
 
